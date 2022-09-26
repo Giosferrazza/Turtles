@@ -11,6 +11,10 @@ t.pensize(1)
 t.goto(-90.00, 0.00)
 t.clear()
 
+
+
+
+
 x = 10
 while x <200:
     t.right(30)
@@ -30,4 +34,4 @@ while x <200:
     t.circle(140)
     x += 10
 
-time.sleep(10)
+time.sleep(3)
